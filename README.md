@@ -12,7 +12,11 @@ This project models core airline operations—airports, ticket no, flights, book
 
 ### Objectives
 
-1) 
+1) Rank the airport based on the number of flights departing from the airport.
+
+2)  Using Bookings table , modify the 'book_date' column in 'yyyy-mm-dd'.
+   
+3)  List the number of tickets are there without boarding passes.
 
 
 <img width="2302" height="1032" alt="image" src="https://github.com/user-attachments/assets/e73e2f37-3141-46e2-8bea-68dd22b622ae" />
